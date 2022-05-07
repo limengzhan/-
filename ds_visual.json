@@ -1,0 +1,456 @@
+{
+    "links": [
+        {
+            "relation": "常用药品",
+            "source": "肺结核",
+            "target": "盐酸氨溴索胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肺结核",
+            "target": "传染科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肺炎",
+            "target": "盐酸氨溴索片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肺炎",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "哮喘",
+            "target": "盐酸氨溴索片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "哮喘",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "小儿发烧",
+            "target": "感冒清热颗粒",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "小儿发烧",
+            "target": "儿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "猪流感",
+            "target": "四季抗病毒合剂",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "猪流感",
+            "target": "传染科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "小儿肺炎",
+            "target": "蛇胆川贝胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "小儿肺炎",
+            "target": "儿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "流感",
+            "target": "阿比多尔片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "流感",
+            "target": "传染科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "小儿急性支气管炎",
+            "target": "小儿肺热咳喘颗粒4克",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "小儿急性支气管炎",
+            "target": "儿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "支气管扩张",
+            "target": "盐酸溴己新片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "支气管扩张",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "支气管炎",
+            "target": "支气管炎片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "支气管炎",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "气管炎",
+            "target": "支气管炎片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "气管炎",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "禽流感",
+            "target": "帕拉米韦氯化钠注射液",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "禽流感",
+            "target": "传染科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "风寒感冒",
+            "target": "氯芬黄敏片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "风寒感冒",
+            "target": "中医科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "小儿哮喘",
+            "target": "孟鲁司特钠咀嚼片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "小儿哮喘",
+            "target": "儿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "支原体肺炎",
+            "target": "麦迪霉素片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "支原体肺炎",
+            "target": "呼吸内科",
+            "values": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肺结核",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "盐酸氨溴索胶囊",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "传染科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肺炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "盐酸氨溴索片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "呼吸内科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "哮喘",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "盐酸氨溴索片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "呼吸内科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "小儿发烧",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "感冒清热颗粒",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "儿科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "猪流感",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "四季抗病毒合剂",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "传染科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "小儿肺炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "蛇胆川贝胶囊",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "儿科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "流感",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "阿比多尔片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "传染科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "小儿急性支气管炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "小儿肺热咳喘颗粒4克",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "儿科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "支气管扩张",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "盐酸溴己新片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "呼吸内科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "支气管炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "支气管炎片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "呼吸内科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "气管炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "支气管炎片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "呼吸内科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "禽流感",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "帕拉米韦氯化钠注射液",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "传染科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "风寒感冒",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "氯芬黄敏片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "中医科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "小儿哮喘",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "孟鲁司特钠咀嚼片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "儿科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "支原体肺炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "麦迪霉素片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "呼吸内科",
+            "size": "16"
+        }
+    ]
+}
