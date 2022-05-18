@@ -1,0 +1,2643 @@
+{
+    "links": [
+        {
+            "relation": "常用药品",
+            "source": "冠心病",
+            "target": "血塞通泡腾片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "冠心病",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "心肌梗塞",
+            "target": "福辛普利钠片（蒙诺）",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "心肌梗塞",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "低血压",
+            "target": "注射用左卡尼汀",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "低血压",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "心绞痛",
+            "target": "复方丹参片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "心绞痛",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "心肌炎",
+            "target": "辅酶Q10胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "心肌炎",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "高血压",
+            "target": "松龄血脉康胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "高血压",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "心脏病",
+            "target": "氧",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "心脏病",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "动脉硬化",
+            "target": "活血通脉片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "动脉硬化",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "心律失常",
+            "target": "参松养心胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "心律失常",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "窦性心动过速",
+            "target": "盐酸普萘洛尔片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "窦性心动过速",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "先天性心脏病",
+            "target": "地高辛片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "先天性心脏病",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "窦性心动过缓",
+            "target": "参仙升脉口服液",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "窦性心动过缓",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "风湿性心脏病",
+            "target": "利心丸",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "风湿性心脏病",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "糖尿病和高血压",
+            "target": "复方三嗪芦丁片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "糖尿病和高血压",
+            "target": "内分泌科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "白血病",
+            "target": "维A酸胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "白血病",
+            "target": "血液科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "过敏性紫癜",
+            "target": "转移因子胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "过敏性紫癜",
+            "target": "血液科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "淋巴癌",
+            "target": "注射用盐酸吡柔比星",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "淋巴癌",
+            "target": "肿瘤科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "再生障碍性贫血",
+            "target": "环孢素软胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "再生障碍性贫血",
+            "target": "血液科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "败血症",
+            "target": "氟氯西林钠胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "败血症",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "血小板减少症",
+            "target": "地榆升白片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "血小板减少症",
+            "target": "血液科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "多发性骨髓瘤",
+            "target": "乌苯美司胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "多发性骨髓瘤",
+            "target": "血液科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "血栓形成",
+            "target": "肝素钠注射液",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "血栓形成",
+            "target": "血液科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "低钾血症",
+            "target": "芪苈强心胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "低钾血症",
+            "target": "血液科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "急性白血病",
+            "target": "硫唑嘌呤片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "急性白血病",
+            "target": "血液科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "恶性淋巴瘤",
+            "target": "消癌平糖浆",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "恶性淋巴瘤",
+            "target": "肿瘤科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "溶血性贫血",
+            "target": "福乃得维铁缓释片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "溶血性贫血",
+            "target": "血液科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "血友病",
+            "target": "紫地宁血散",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "血友病",
+            "target": "血液科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "痛风",
+            "target": "丙磺舒片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "痛风",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "类风湿性关节炎",
+            "target": "双蚁祛湿通络胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "类风湿性关节炎",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "风湿性关节炎",
+            "target": "腰痛宁胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "风湿性关节炎",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "骨关节炎",
+            "target": "硫酸氨基葡萄糖胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "骨关节炎",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "高尿酸血症",
+            "target": "硫酸氨基葡萄糖钾胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "高尿酸血症",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "川崎病",
+            "target": "七叶皂苷钠片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "川崎病",
+            "target": "儿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "干燥综合征",
+            "target": "金嗓子喉片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "干燥综合征",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "系统性红斑狼疮",
+            "target": "吗替麦考酚酯胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "系统性红斑狼疮",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "过敏性哮喘",
+            "target": "镇咳宁胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "过敏性哮喘",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "硬皮病",
+            "target": "脉管复康片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "硬皮病",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "红斑狼疮",
+            "target": "吗替麦考酚酯胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "红斑狼疮",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "风湿热",
+            "target": "雷公藤多苷片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "风湿热",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "白塞病",
+            "target": "雷公藤多甙片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "白塞病",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "强直性脊柱炎",
+            "target": "萘普生片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "强直性脊柱炎",
+            "target": "风湿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肾结石",
+            "target": "尿石通丸",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肾结石",
+            "target": "泌尿外科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "尿毒症",
+            "target": "复方α-酮酸片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "尿毒症",
+            "target": "肾内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "尿道炎",
+            "target": "复方石韦颗粒",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "尿道炎",
+            "target": "肾内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "慢性肾炎",
+            "target": "黄葵胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "慢性肾炎",
+            "target": "肾内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肾积水",
+            "target": "八正合剂",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肾积水",
+            "target": "肾内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肾囊肿",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肾囊肿",
+            "target": "肾内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肾病综合征",
+            "target": "雷公藤多苷片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肾病综合征",
+            "target": "肾内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "尿道结石",
+            "target": "尿石通丸",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "尿道结石",
+            "target": "泌尿外科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肾盂肾炎",
+            "target": "复方α-酮酸片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肾盂肾炎",
+            "target": "肾内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "血尿",
+            "target": "结石通片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "血尿",
+            "target": "肾内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肾功能不全",
+            "target": "氢氯噻嗪片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肾功能不全",
+            "target": "肾内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肾炎",
+            "target": "复方α-酮酸片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肾炎",
+            "target": "肾内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "乳腺增生",
+            "target": "乳块消胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "乳腺增生",
+            "target": "乳腺外科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "甲亢",
+            "target": "抑亢丸",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "甲亢",
+            "target": "内分泌科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "低血糖",
+            "target": "黄芪颗粒",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "低血糖",
+            "target": "内分泌科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "脱发",
+            "target": "养血生发胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "脱发",
+            "target": "皮肤科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "甲减",
+            "target": "左甲状腺素钠片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "甲减",
+            "target": "内分泌科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "脂溢性皮炎",
+            "target": "酮康他索乳膏",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "脂溢性皮炎",
+            "target": "皮肤科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "糖尿病",
+            "target": "参芪降糖颗粒",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "糖尿病",
+            "target": "内分泌科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "2型糖尿病",
+            "target": "格列吡嗪片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "2型糖尿病",
+            "target": "内分泌科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "腮腺炎",
+            "target": "腮腺炎片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "腮腺炎",
+            "target": "内分泌科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "甲状腺瘤",
+            "target": "平消胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "甲状腺瘤",
+            "target": "内分泌科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "淋巴瘤",
+            "target": "依托泊苷软胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "淋巴瘤",
+            "target": "肿瘤科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "失眠症",
+            "target": "清脑复神液",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "失眠症",
+            "target": "精神病科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "坐骨神经痛",
+            "target": "腰痛宁胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "坐骨神经痛",
+            "target": "神经内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "神经衰弱",
+            "target": "天麻素胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "神经衰弱",
+            "target": "神经内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "偏头痛",
+            "target": "苯甲酸利扎曲普坦片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "偏头痛",
+            "target": "神经内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "焦虑症",
+            "target": "普瑞巴林胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "焦虑症",
+            "target": "精神病科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "帕金森",
+            "target": "单唾液酸四己糖神经节苷脂钠注射液",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "帕金森",
+            "target": "神经内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "植物神经紊乱",
+            "target": "谷维素片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "植物神经紊乱",
+            "target": "神经内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "老年痴呆症",
+            "target": "尼麦角林片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "老年痴呆症",
+            "target": "神经内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "脑梗死",
+            "target": "羟乙基淀粉",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "脑梗死",
+            "target": "神经内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "颈椎病",
+            "target": "吲哚美辛巴布膏",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "颈椎病",
+            "target": "骨科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "心脏神经官能症",
+            "target": "酒石酸美托洛尔缓释片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "心脏神经官能症",
+            "target": "心血管内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "面瘫",
+            "target": "大活络丸",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "面瘫",
+            "target": "神经内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "脑动脉硬化症",
+            "target": "通脉颗粒",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "脑动脉硬化症",
+            "target": "神经内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "重症肌无力",
+            "target": "健步强身丸",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "重症肌无力",
+            "target": "神经内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "慢性胃炎",
+            "target": "摩罗丹(浓缩丸)",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "慢性胃炎",
+            "target": "消化内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "胃癌",
+            "target": "云芝糖肽胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "胃癌",
+            "target": "肿瘤科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "脂肪肝",
+            "target": "多烯磷脂酰胆碱胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "脂肪肝",
+            "target": "肝病",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "便秘",
+            "target": "四磨汤口服液",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "便秘",
+            "target": "消化内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "胃溃疡",
+            "target": "枸橼酸铋钾颗粒",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "胃溃疡",
+            "target": "胃肠外科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "直肠癌",
+            "target": "卡培他滨片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "直肠癌",
+            "target": "肿瘤科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "反流性食管炎",
+            "target": "盐酸雷尼替丁胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "反流性食管炎",
+            "target": "消化内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "幽门螺杆菌感染",
+            "target": "复方雷尼替丁胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "幽门螺杆菌感染",
+            "target": "消化内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "慢性胆囊炎",
+            "target": "复方金钱草颗粒",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "慢性胆囊炎",
+            "target": "消化内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "拉肚子",
+            "target": "参倍固肠胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "拉肚子",
+            "target": "消化内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肝硬化",
+            "target": "肝喜乐胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肝硬化",
+            "target": "肝病",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "胰腺炎",
+            "target": "清胰利胆颗粒",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "胰腺炎",
+            "target": "消化内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肠梗阻",
+            "target": "甘油",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肠梗阻",
+            "target": "消化内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "胆囊炎",
+            "target": "盐酸左氧氟沙星胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "胆囊炎",
+            "target": "肝胆外科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肺结核",
+            "target": "盐酸氨溴索胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肺结核",
+            "target": "传染科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "肺炎",
+            "target": "盐酸氨溴索片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "肺炎",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "哮喘",
+            "target": "盐酸氨溴索片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "哮喘",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "小儿发烧",
+            "target": "感冒清热颗粒",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "小儿发烧",
+            "target": "儿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "猪流感",
+            "target": "四季抗病毒合剂",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "猪流感",
+            "target": "传染科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "小儿肺炎",
+            "target": "蛇胆川贝胶囊",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "小儿肺炎",
+            "target": "儿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "流感",
+            "target": "阿比多尔片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "流感",
+            "target": "传染科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "小儿急性支气管炎",
+            "target": "小儿肺热咳喘颗粒4克",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "小儿急性支气管炎",
+            "target": "儿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "支气管扩张",
+            "target": "盐酸溴己新片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "支气管扩张",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "支气管炎",
+            "target": "支气管炎片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "支气管炎",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "气管炎",
+            "target": "支气管炎片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "气管炎",
+            "target": "呼吸内科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "禽流感",
+            "target": "帕拉米韦氯化钠注射液",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "禽流感",
+            "target": "传染科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "风寒感冒",
+            "target": "氯芬黄敏片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "风寒感冒",
+            "target": "中医科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "小儿哮喘",
+            "target": "孟鲁司特钠咀嚼片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "小儿哮喘",
+            "target": "儿科",
+            "values": 3
+        },
+        {
+            "relation": "常用药品",
+            "source": "支原体肺炎",
+            "target": "麦迪霉素片",
+            "values": 3
+        },
+        {
+            "relation": "挂号",
+            "source": "支原体肺炎",
+            "target": "呼吸内科",
+            "values": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "冠心病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "血塞通泡腾片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "心血管内科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "心肌梗塞",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "福辛普利钠片（蒙诺）",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "低血压",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "注射用左卡尼汀",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "心绞痛",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "复方丹参片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "心肌炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "辅酶Q10胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "高血压",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "松龄血脉康胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "心脏病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "氧",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "动脉硬化",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "活血通脉片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "心律失常",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "参松养心胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "窦性心动过速",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "盐酸普萘洛尔片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "先天性心脏病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "地高辛片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "窦性心动过缓",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "参仙升脉口服液",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "风湿性心脏病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "利心丸",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "糖尿病和高血压",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "复方三嗪芦丁片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "内分泌科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "白血病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "维A酸胶囊",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "血液科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "过敏性紫癜",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "转移因子胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "淋巴癌",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "注射用盐酸吡柔比星",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "肿瘤科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "再生障碍性贫血",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "环孢素软胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "败血症",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "氟氯西林钠胶囊",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "呼吸内科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "血小板减少症",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "地榆升白片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "多发性骨髓瘤",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "乌苯美司胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "血栓形成",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "肝素钠注射液",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "低钾血症",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "芪苈强心胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "急性白血病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "硫唑嘌呤片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "恶性淋巴瘤",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "消癌平糖浆",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "溶血性贫血",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "福乃得维铁缓释片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "血友病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "紫地宁血散",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "痛风",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "丙磺舒片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "风湿科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "类风湿性关节炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "双蚁祛湿通络胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "风湿性关节炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "腰痛宁胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "骨关节炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "硫酸氨基葡萄糖胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "高尿酸血症",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "硫酸氨基葡萄糖钾胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "川崎病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "七叶皂苷钠片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "儿科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "干燥综合征",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "金嗓子喉片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "系统性红斑狼疮",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "吗替麦考酚酯胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "过敏性哮喘",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "镇咳宁胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "硬皮病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "脉管复康片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "红斑狼疮",
+            "size": "10"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "风湿热",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "雷公藤多苷片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "白塞病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "雷公藤多甙片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "强直性脊柱炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "萘普生片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肾结石",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "尿石通丸",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "泌尿外科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "尿毒症",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "复方α-酮酸片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "肾内科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "尿道炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "复方石韦颗粒",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "慢性肾炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "黄葵胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肾积水",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "八正合剂",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肾囊肿",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肾病综合征",
+            "size": "10"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "尿道结石",
+            "size": "10"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肾盂肾炎",
+            "size": "10"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "血尿",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "结石通片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肾功能不全",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "氢氯噻嗪片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肾炎",
+            "size": "10"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "乳腺增生",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "乳块消胶囊",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "乳腺外科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "甲亢",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "抑亢丸",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "低血糖",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "黄芪颗粒",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "脱发",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "养血生发胶囊",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "皮肤科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "甲减",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "左甲状腺素钠片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "脂溢性皮炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "酮康他索乳膏",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "糖尿病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "参芪降糖颗粒",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "2型糖尿病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "格列吡嗪片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "腮腺炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "腮腺炎片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "甲状腺瘤",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "平消胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "淋巴瘤",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "依托泊苷软胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "失眠症",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "清脑复神液",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "精神病科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "坐骨神经痛",
+            "size": "10"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "神经内科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "神经衰弱",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "天麻素胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "偏头痛",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "苯甲酸利扎曲普坦片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "焦虑症",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "普瑞巴林胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "帕金森",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "单唾液酸四己糖神经节苷脂钠注射液",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "植物神经紊乱",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "谷维素片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "老年痴呆症",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "尼麦角林片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "脑梗死",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "羟乙基淀粉",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "颈椎病",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "吲哚美辛巴布膏",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "骨科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "心脏神经官能症",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "酒石酸美托洛尔缓释片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "面瘫",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "大活络丸",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "脑动脉硬化症",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "通脉颗粒",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "重症肌无力",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "健步强身丸",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "慢性胃炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "摩罗丹(浓缩丸)",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "消化内科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "胃癌",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "云芝糖肽胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "脂肪肝",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "多烯磷脂酰胆碱胶囊",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "肝病",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "便秘",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "四磨汤口服液",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "胃溃疡",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "枸橼酸铋钾颗粒",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "胃肠外科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "直肠癌",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "卡培他滨片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "反流性食管炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "盐酸雷尼替丁胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "幽门螺杆菌感染",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "复方雷尼替丁胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "慢性胆囊炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "复方金钱草颗粒",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "拉肚子",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "参倍固肠胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肝硬化",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "肝喜乐胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "胰腺炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "清胰利胆颗粒",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肠梗阻",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "甘油",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "胆囊炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "盐酸左氧氟沙星胶囊",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "肝胆外科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肺结核",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "盐酸氨溴索胶囊",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "传染科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "肺炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "盐酸氨溴索片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "哮喘",
+            "size": "10"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "小儿发烧",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "感冒清热颗粒",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "猪流感",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "四季抗病毒合剂",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "小儿肺炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "蛇胆川贝胶囊",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "流感",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "阿比多尔片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "小儿急性支气管炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "小儿肺热咳喘颗粒4克",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "支气管扩张",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "盐酸溴己新片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "支气管炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "支气管炎片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "气管炎",
+            "size": "10"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "禽流感",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "帕拉米韦氯化钠注射液",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "风寒感冒",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "氯芬黄敏片",
+            "size": "8"
+        },
+        {
+            "class": "内科科室",
+            "group": "0",
+            "id": "中医科",
+            "size": "16"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "小儿哮喘",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "孟鲁司特钠咀嚼片",
+            "size": "8"
+        },
+        {
+            "class": "疾病",
+            "group": "1",
+            "id": "支原体肺炎",
+            "size": "10"
+        },
+        {
+            "class": "药物",
+            "group": "2",
+            "id": "麦迪霉素片",
+            "size": "8"
+        }
+    ]
+}
